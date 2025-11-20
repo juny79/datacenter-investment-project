@@ -3,4 +3,6 @@ pandas
 beautifulsoup4
 lxml
 python-dotenv
+python-dateutil
 tqdm
+xmltodict
